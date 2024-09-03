@@ -1,0 +1,2 @@
+  //? Collected info: name, description, industry, address, contact info, logo, team members, goals, "integration preferences"
+  //? Revenue data, funding status, expenses breakdown, profit margins, cash flow analysis, finnancial ratio, budget plan, historical overview
